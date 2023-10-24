@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mauri\\OneDrive\\Documentos\\SONDA-CODINGDOJO\\Bootcamp CSharp-.NET\\Ejercicios Fundamentos de la Web\\Semana 7\\Cores\\Core 26\\Rivera_Mauricio_ASPCore_EnDojo\\EnDojo\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EnDojo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EnDojo.props",
+      "PackagePath": "build\\EnDojo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EnDojo.props",
+      "PackagePath": "buildMultiTargeting\\EnDojo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EnDojo.props",
+      "PackagePath": "buildTransitive\\EnDojo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

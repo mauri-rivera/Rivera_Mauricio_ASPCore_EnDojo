@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "b0Brcraa7qMA2t1+pyWTvRjzVVpvhrGZ4T7tKRWdSwE=",
+  "Source": "EnDojo",
+  "BasePath": "_content/EnDojo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EnDojo\\wwwroot",
+      "Source": "EnDojo",
+      "ContentRoot": "C:\\Users\\mauri\\OneDrive\\Documentos\\SONDA-CODINGDOJO\\Bootcamp CSharp-.NET\\Ejercicios Fundamentos de la Web\\Semana 7\\Cores\\Core 26\\Rivera_Mauricio_ASPCore_EnDojo\\EnDojo\\wwwroot\\",
+      "BasePath": "_content/EnDojo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mauri\\OneDrive\\Documentos\\SONDA-CODINGDOJO\\Bootcamp CSharp-.NET\\Ejercicios Fundamentos de la Web\\Semana 7\\Cores\\Core 26\\Rivera_Mauricio_ASPCore_EnDojo\\EnDojo\\wwwroot\\css\\styles.css",
+      "SourceId": "EnDojo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mauri\\OneDrive\\Documentos\\SONDA-CODINGDOJO\\Bootcamp CSharp-.NET\\Ejercicios Fundamentos de la Web\\Semana 7\\Cores\\Core 26\\Rivera_Mauricio_ASPCore_EnDojo\\EnDojo\\wwwroot\\",
+      "BasePath": "_content/EnDojo",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}
