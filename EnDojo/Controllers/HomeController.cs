@@ -38,7 +38,7 @@ namespace EnDojo.Controllers
             return View();
         }
 
-        [HttpPost("result")]
+        [HttpPost("Result")]
         public IActionResult Index(string Nombre, string Ubicacion, string Lenguaje, string? Comentario)
         {
             if (datosNinja.Count == 0)
@@ -50,7 +50,7 @@ namespace EnDojo.Controllers
 
                 ViewBag.Datos = datosNinja;
 
-                return View("result", datosNinja);
+                return View("Result", datosNinja);
             }
             else
             {
@@ -58,11 +58,11 @@ namespace EnDojo.Controllers
             }
         }
 
-        [HttpGet("result")]
+        [HttpGet("Result")]
         public IActionResult Resultado()
         {
             ViewBag.Datos = datosNinja;
-            return View("result", datosNinja);
+            return View("Result", datosNinja);
         }
     }
 }
